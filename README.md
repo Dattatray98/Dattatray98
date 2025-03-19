@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hey there! I'm Datta  
+🚀 **Full-Stack Developer | Python & JavaScript Enthusiast | Building a Sustainable Future**  
 
-<!--
-**Dattatray98/Dattatray98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **web developer** with skills in **HTML, CSS, JavaScript, and Python**. Currently, I'm building a **sustainable e-commerce website** to make online shopping more eco-friendly!  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Python  
+- **Version Control:** Git & GitHub  
+- **Other Interests:** Ethical Hacking, AI, UI/UX  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Projects I'm Working On  
+- 🌱 **Sustainable E-commerce Website** – Creating an eco-friendly online store 🌍  
+- 🎵 **Harmonexia** – A feature-rich **music player** 🎶
+  
+## 📫 Let's Connect!  
+🔗 [LinkedIn](#) | ✉️ **jojewardattatray@gmail.com**  
+
 -->
