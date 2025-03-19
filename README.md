@@ -14,6 +14,6 @@ I'm a passionate **web developer** with skills in **HTML, CSS, JavaScript, and P
 - 🎵 **Harmonexia** – A feature-rich **music player** 🎶
   
 ## 📫 Let's Connect!  
-🔗 [LinkedIn](www.linkedin.com/in/dattatray-jojewar-4187242b3) | ✉️ **jojewardattatray@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/dattatray-jojewar-4187242b3/) | ✉️ **jojewardattatray@gmail.com**  
 
 -->
