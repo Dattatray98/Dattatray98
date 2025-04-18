@@ -4,7 +4,7 @@
 I'm a passionate **web developer** with skills in **HTML, CSS, JavaScript, and Python**. Currently, I'm building a **sustainable e-commerce website** to make online shopping more eco-friendly!  
 
 ## 🔧 Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, Typescript, Next.js, node.js, tailwind css
+- **Frontend:** HTML, CSS, JavaScript, Typescript, Next.js, node.js, tailwind css, react, three.js, MediaPipe
 - **Backend:** Python  
 - **Version Control:** Git & GitHub  
 - **Other Interests:** Ethical Hacking, AI, UI/UX  
