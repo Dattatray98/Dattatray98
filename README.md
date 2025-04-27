@@ -24,11 +24,6 @@ _2024 - 2028_
 **Full Stack Intern (Assignment Phase)** - Realfy Oasis  
 _April 2025 - Present_  
 - Building real-time fitness web app using MediaPipe and Three.js.
-
-**Frontend Developer (Internship Test)** - Business Quant  
-_April 2025_  
-- Created advanced Excel-like data filtering WordPress plugin.
-
   
 
   
