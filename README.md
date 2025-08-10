@@ -6,7 +6,8 @@ I'm a passionate **web developer** with skills in **HTML, CSS, JavaScript, and P
 ## 🔧 Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript, Typescript, Next.js, node.js, tailwind css, react, three.js, MediaPipe
 - **Backend:** Node.js, Express.js, MongoDB, MySQL
-- **Version Control:** Git & GitHub  
+- **Version Control:** Git & GitHub
+- **Programming Languages :** Java, Python 
 - **Other Interests:** Ethical Hacking, AI, UI/UX, WordPress Plugin Development
 
 ## 🎓 Education
