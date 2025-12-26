@@ -17,7 +17,8 @@ _2024 - 2028_
 
 
 ## Projects
-**1. URL Shortner** 
+**1. URL Shortner**
+
 **Discription :** A fast and secure URL shortening web application that converts long links into short, shareable URLs.
 
 
