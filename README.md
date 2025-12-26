@@ -4,10 +4,10 @@
 I'm a passionate **web developer** with skills in **HTML, CSS, JavaScript, and Python**. Currently, I'm building a **sustainable e-commerce website** to make online shopping more eco-friendly!  
 
 ## 🔧 Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, Typescript, Next.js, node.js, tailwind css, react, three.js, MediaPipe
+- **Frontend:** HTML, CSS, JavaScript, Typescript, Next.js, node.js, tailwind css, react, three.js, MediaPipe, Fast API
 - **Backend:** Node.js, Express.js, MongoDB, MySQL
 - **Version Control:** Git & GitHub
-- **Programming Languages :** Java, Python 
+- **Programming Languages :** Java, Python
 - **Other Interests:** Ethical Hacking, AI, UI/UX, WordPress Plugin Development
 
 ## 🎓 Education
@@ -16,9 +16,9 @@ Savitribai Phule Pune University (SPPU)
 _2024 - 2028_
 
 
-## Projects I'm Working On  
-- 🌱 **Sustainable E-commerce Website** – Creating an eco-friendly online store 🌍  
-- 🎵 **Harmonexia** – A feature-rich **music player** 🎶
+## Projects
+**1. URL Shortner** 
+**Discription :** A fast and secure URL shortening web application that converts long links into short, shareable URLs.
 
 
 ## 💼 Experience
