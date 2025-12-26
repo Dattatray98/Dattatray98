@@ -5,7 +5,7 @@
 Engineering student and Full Stack Web Developer, focused on building real-world projects using React.js, Tailwind CSS, Node.js, Express.js, JavaScript, and Python.
 
 ## 🔧 Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, Typescript, Next.js, node.js, tailwind css, react, three.js, MediaPipe, Fast API
+- **Frontend:** HTML, CSS, JavaScript, Typescript, Next.js, node.js, tailwind css, react, MediaPipe, Fast API
 - **Backend:** Node.js, Express.js, MongoDB. 
 - **Version Control:** Git & GitHub
 - **Programming Languages :** Java, Python
