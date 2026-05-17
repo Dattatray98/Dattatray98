@@ -1,46 +1,29 @@
-# 👋 Hey, I'm Dattatray Jojewar
+# 👋 Dattatray Jojewar
 
 Computer Engineering Student at SPPU
-Building AI systems and real-world software projects publicly.
-
-Currently exploring:
-
-* Artificial Intelligence & Machine Learning
-* Full-Stack Development
-* Systems & Automation
-* Real-world problem solving through software
+Building AI systems, full-stack applications, and real-world software projects publicly.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-### Languages
+* Exploring Artificial Intelligence, Machine Learning, and Systems Engineering
+* Building real-world projects and documenting the journey
+* Interested in backend systems, automation, and applied AI
+* Focused on learning through practical engineering
 
-* JavaScript / TypeScript
-* Python
-* Java
+---
 
-### Frontend
+## 💻 Tech Stack
 
-* React.js
-* Next.js
-* Tailwind CSS
-* HTML / CSS
-
-### Backend
-
-* Node.js
-* Express.js
-* FastAPI
-* MongoDB
-
-### Tools & Technologies
-
-* Git & GitHub
-* MediaPipe
-* Pandas
-* NumPy
-* Scikit-learn
+| Category  | Technologies                               |
+| --------- | ------------------------------------------ |
+| Languages | JavaScript, TypeScript, Python, Java       |
+| Frontend  | React.js, Next.js, Tailwind CSS, HTML, CSS |
+| Backend   | Node.js, Express.js, FastAPI               |
+| Databases | MongoDB                                    |
+| AI / ML   | Scikit-learn, Pandas, NumPy, MediaPipe     |
+| Tools     | Git, GitHub                                |
 
 ---
 
@@ -48,9 +31,9 @@ Currently exploring:
 
 ### 🔗 URL Shortener
 
-A secure and fast URL shortening platform for generating short, shareable links.
+Fast and secure URL shortening platform for generating shareable links.
 
-**Tech Stack:** React.js, Tailwind CSS, TypeScript, Node.js, Express.js, MongoDB
+**Stack:** React.js, Tailwind CSS, TypeScript, Node.js, Express.js, MongoDB
 
 ---
 
@@ -58,21 +41,20 @@ A secure and fast URL shortening platform for generating short, shareable links.
 
 AI-powered flood prediction and disaster response system using weather and river data analysis.
 
-**Tech Stack:** React.js, Tailwind CSS, TypeScript, FastAPI, Scikit-learn, Pandas, NumPy
+**Stack:** React.js, TypeScript, FastAPI, Scikit-learn, Pandas, NumPy
 
 ---
 
 ## 🎯 Current Focus
 
-* Building AI projects publicly
-* Improving system design and backend engineering
-* Learning Machine Learning deeply
-* Creating real-world software projects
+* AI Engineering
+* Backend & System Design
+* Real-world Software Development
+* Building Publicly through Breaking Into Bytes
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 * LinkedIn: linkedin.com/in/dattatray-jojewar-4187242b3
-* Email: [jojewardattatray@gmail.com](mailto:jojewardattatray@gmail.com)
-* YouTube: Breaking Into Bytes (coming soon)
+* Email: [breakingintobytes.bit@gmail.com](mailto:breakingintobytes.bit@gmail.com)
