@@ -1,34 +1,78 @@
-👋 Hey there! I'm Jojewar Dattatray\
+# 👋 Hey, I'm Dattatray Jojewar
 
- Engineering Student at SPPU | Full-Stack Developer | Exploring AI & Machine Learning | Passionate about building impactful tech 
+Computer Engineering Student at SPPU
+Building AI systems and real-world software projects publicly.
 
-Engineering student and Full Stack Web Developer, focused on building real-world projects using React.js, Tailwind CSS, Node.js, Express.js, JavaScript, and Python.
+Currently exploring:
 
-## 🔧 Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, Typescript, Next.js, node.js, tailwind css, react, MediaPipe, Fast API
-- **Backend:** Node.js, Express.js, MongoDB. 
-- **Version Control:** Git & GitHub
-- **Programming Languages :** Java, Python
-- **Other Interests:** Artificial Intelligence and Machine Learning, Data Science.
+* Artificial Intelligence & Machine Learning
+* Full-Stack Development
+* Systems & Automation
+* Real-world problem solving through software
 
-## 🎓 Education
-**Bachelor of Engineering - First Year**  
-Savitribai Phule Pune University (SPPU)  
-_2024 - 2028_
+---
 
+## 🚀 Tech Stack
 
-## Projects and Experience 
-**1. URL Shortner.**\
-**Discription :** A fast and secure URL shortening web application that converts long links into short, shareable URLs.\
-**Tech stack :** React.js, Tailwind CSS, TypeScript, MongoDB, Node.js, Express.js
+### Languages
 
-**2. ResQ-AI : An AI powered flood prediction & disaster response system.**\
-**Discription :** This project is a web application that predicts flood risk based on weather and river data. It uses machine learning to provide alerts and insights.\
-**Tech Stack :** React.js, Tailwind CSS, TypeScript, Node.js, Express.js, scikit-learn, pandas, numpy, fastapi, uvicorn.
+* JavaScript / TypeScript
+* Python
+* Java
 
-  
-## 📫 Let's Connect!  
-🔗 [LinkedIn](https://www.linkedin.com/in/dattatray-jojewar-4187242b3/) | ✉️ **jojewardattatray@gmail.com**  
+### Frontend
 
-_Thanks for visiting my resume! Feel free to connect!_
+* React.js
+* Next.js
+* Tailwind CSS
+* HTML / CSS
 
+### Backend
+
+* Node.js
+* Express.js
+* FastAPI
+* MongoDB
+
+### Tools & Technologies
+
+* Git & GitHub
+* MediaPipe
+* Pandas
+* NumPy
+* Scikit-learn
+
+---
+
+## 📌 Featured Projects
+
+### 🔗 URL Shortener
+
+A secure and fast URL shortening platform for generating short, shareable links.
+
+**Tech Stack:** React.js, Tailwind CSS, TypeScript, Node.js, Express.js, MongoDB
+
+---
+
+### 🌊 ResQ-AI
+
+AI-powered flood prediction and disaster response system using weather and river data analysis.
+
+**Tech Stack:** React.js, Tailwind CSS, TypeScript, FastAPI, Scikit-learn, Pandas, NumPy
+
+---
+
+## 🎯 Current Focus
+
+* Building AI projects publicly
+* Improving system design and backend engineering
+* Learning Machine Learning deeply
+* Creating real-world software projects
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/dattatray-jojewar-4187242b3
+* Email: [jojewardattatray@gmail.com](mailto:jojewardattatray@gmail.com)
+* YouTube: Breaking Into Bytes (coming soon)
