@@ -56,5 +56,5 @@ AI-powered flood prediction and disaster response system using weather and river
 
 ## 📫 Connect
 
-* [LinkedIn](www.linkedin.com/in/dattatray98)
+* LinkedIn : <a href="www.linkedin.com/in/dattatray98">In/Dattatray</a>
 * Email: [jojewardattatray@gmail.com](mailto:jojewardattatray@gmail.com)
