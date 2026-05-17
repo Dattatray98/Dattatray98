@@ -18,7 +18,7 @@ Building AI systems, full-stack applications, and real-world software projects p
 
 | Category  | Technologies                               |
 | --------- | ------------------------------------------ |
-| Languages | JavaScript, TypeScript, Python, Java       |
+| Languages | JavaScript, TypeScript, Python, Java, C++  |
 | Frontend  | React.js, Next.js, Tailwind CSS, HTML, CSS |
 | Backend   | Node.js, Express.js, FastAPI               |
 | Databases | MongoDB                                    |
@@ -56,5 +56,5 @@ AI-powered flood prediction and disaster response system using weather and river
 
 ## 📫 Connect
 
-* LinkedIn: linkedin.com/in/dattatray-jojewar-4187242b3
-* Email: [breakingintobytes.bit@gmail.com](mailto:breakingintobytes.bit@gmail.com)
+* [LinkedIn](linkedin.com/in/dattatray-jojewar-4187242b)
+* Email: [jojewardattatray@gmail.com](mailto:jojewardattatray@gmail.com)
